@@ -1,3 +1,4 @@
+#Провека скобок
 string = input()
 req_brack = input()
 antibrack = ""

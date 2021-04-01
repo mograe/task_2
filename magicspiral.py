@@ -1,3 +1,4 @@
+#Магическая спираль
 size_matrix=int(input())
 s = 0
 
